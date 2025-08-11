@@ -1,4 +1,3 @@
-//Lab-8:
 
 /*
 Write a C program to get this output:
